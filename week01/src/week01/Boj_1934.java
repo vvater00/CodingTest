@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class Boj_1934 {//최소공배수 구하기 and 최대공약수
+public class Boj_1934 {//최소 공배수 구하기 and 최대 공약수
 
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
